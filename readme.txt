@@ -1,5 +1,6 @@
 Information:
 
+Built on SUI with MOVE. This is an contract.
 module -> person
 digest -> ER3D8e11t2XVDHjRHaewawpGvp6muG4nehP3NWJJTeEn
 params -> name, city, dob, age
